@@ -25,6 +25,8 @@ Qualcosa non va? Dall'estensione: icona → «segnala un problema». Oppure apri
 [issue](../../issues). Privacy: [ia-lab.site/popcorn-per-due/privacy](https://ia-lab.site/popcorn-per-due/privacy).
 Condizioni d'uso: [licenza](LICENZA.md).
 
+© 2026 Leonardo Alucci, tutti i diritti riservati.
+
 ---
 
 **In English.** A free Chrome and Brave extension to watch a film in sync with someone far away: play, pause and
