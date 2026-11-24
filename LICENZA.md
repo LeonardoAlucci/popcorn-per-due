@@ -4,7 +4,7 @@ Versione 1.0 · in vigore dal 28 ottobre 2026
 
 ## 1. Chi è il titolare
 Popcorn per Due (di seguito «l'Estensione»), comprese le sue versioni, il codice, la grafica, i testi e la
-documentazione, è un'opera di **Leonardo Alucci**, sviluppata nell'ambito del laboratorio no profit IA-Lab
+documentazione, è un'opera di **Leonardo Alucci**, sviluppata nell'ambito del laboratorio IA-Lab
 (ia-lab.site). Tutti i diritti sono riservati. L'Estensione è tutelata dalla legge
 22 aprile 1941, n. 633 (legge sul diritto d'autore) e dalla direttiva 2009/24/CE sui programmi per elaboratore.
 L'Estensione non è software libero né open source.
