@@ -5,7 +5,7 @@
 <p align="center">Guarda un film insieme a chi è lontano, nello stesso momento. Gratis.</p>
 
 <p align="center">
-  <a href="https://chromewebstore.google.com/detail/choolchdfdpggmcdmdnhlcnkmbbinlcl"><b>Aggiungilo a Chrome</b></a> ·
+  <a href="https://chromewebstore.google.com/detail/choolchdfdpggmcdmdnhlcnkmbbinlcl"><b>Aggiungilo al browser</b></a> ·
   <a href="https://ia-lab.site/popcorn-per-due/">Il sito</a> ·
   <a href="https://chromewebstore.google.com/detail/choolchdfdpggmcdmdnhlcnkmbbinlcl/reviews">Lascia una recensione</a>
 </p>
@@ -32,5 +32,5 @@ Condizioni d'uso: [licenza](LICENZA.md).
 **In English.** A free Chrome and Brave extension to watch a film in sync with someone far away: play, pause and
 seek happen on both sides, with chat, reactions and video calls on top. Works on Netflix, Prime Video, Disney+ and
 YouTube. No account needed, no ads. Made at [IA-Lab](https://ia-lab.site), a non-profit lab. The source code isn't
-public because we don't want it resold. [Add it to Chrome](https://chromewebstore.google.com/detail/choolchdfdpggmcdmdnhlcnkmbbinlcl),
+public because we don't want it resold. [Add it to your browser](https://chromewebstore.google.com/detail/choolchdfdpggmcdmdnhlcnkmbbinlcl),
 and if you like it, a star helps.
